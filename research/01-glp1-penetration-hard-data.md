@@ -1,3 +1,8 @@
+> ⚠️ **PARTIALLY SUPERSEDED — see `09-penetration-model-CORRECTIONS.md`.**
+> The Gallup penetration figure (11%) and the "obesity fell 39.9% -> 36.4%" claim below do NOT
+> survive scrutiny. IQVIA dispensing data implies ~6.1% penetration, and NHANES has NOT measured
+> a significant obesity decline. Read the corrections file before using anything here.
+
 # GLP-1 Penetration: Hard Data (verified 2026-08-27)
 
 ## Gallup, fielded May 28 – June 5, 2026 (n=5,065 US adults, MoE ±1.5pp)
