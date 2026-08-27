@@ -103,3 +103,43 @@ Protein demand genuinely boomed; **volume growth arrived with MARGIN COLLAPSE** 
 category had no moat. Correctly identifying the demand shift told you almost nothing about the
 stock. Any GLP-1 pitch must connect the demand insight to a **pricing/margin/competitive-moat**
 argument, not just a volume argument.
+
+---
+## ADDENDUM — AI-side context relevant to GEV / ADBE / SPOT (from later agents)
+
+### Model commoditization: the thesis is directionally WRONG for 2026
+- Holding CAPABILITY constant (GPT-4-2023 level): $37.50/Mtok (Mar 2023) -> ~$0.175 (Jul 2026)
+  = 214x over 3.3 years = **~80%/yr deflation**, but DOWN from ~10x/yr in 2023-24.
+- Holding POSITION constant (always buy the frontier): $37.50 -> $3.44 (Aug 2025) -> **$11.25 (Jul 2026)**.
+  **Frontier tier price is UP 36.4% YoY.** Mid-tier -35.8%. Budget floor flat for four quarters.
+  => The floor collapsed; **the ceiling is RISING.** Commoditization is real only at the floor.
+- **DeepSeek RAISED prices** (announced Aug 6, 2026; repriced Aug 16). The race to zero ended.
+- **The open/closed gap WIDENED** — Epoch AI: 4 months / 8 ECI points since Jan 2026,
+  vs 3 months through Oct 2025.
+- **Meta abandoned open source** (closed Muse Spark, Apr 8, 2026) after 1.2B Llama downloads.
+- **Jevons is winning decisively:** OpenRouter ~100T tokens/yr (May 2025) -> ~1.5 quadrillion/yr
+  (May 2026) = **15x**, against ~36% mid-tier price decline. Enterprise AI budgets $1.2M -> $7.0M.
+=> Read-through: AI demand (and therefore power demand) is NOT deflating away. This CUTS AGAINST
+   a simple "GEV order book evaporates" short. The honest GEV short has to be about
+   valuation/pull-forward/competitive capacity, not about AI demand collapsing.
+
+### Read-through to ADBE / SPOT
+- **Value accrues to DISTRIBUTION, not to applications or models.** Even Cursor (~$4B ARR)
+  resolved model dependence by building in-house inference.
+- Anthropic is ahead of OpenAI on revenue ($65B vs $40B annualized).
+- ⚠️ Benchmark/pricing data in that report came from secondary AI blogs that contradict each
+  other (DeepSeek V4 list prices vary up to 4x across sources). Do not cite specific
+  model prices in the memo without re-verification.
+
+### IPO / event context (mostly out of universe, kept for regime read)
+- 2026 IPOs: **105 priced (-25.5% vs 2025)** but **$145.8B raised (+542.7%)** — SpaceX alone is
+  51% of all proceeds. **Every IPO priced since July 30 is below issue.** Late-cycle signature.
+- ⚠️ **Lockup-expiry shorts are structurally broken in 2026:** underwriters replaced single
+  cliffs with staged, milestone-triggered releases. SpaceX's Aug 6 unlock put ~911.5M shares
+  against a <280.1M float and **the stock went UP**.
+- **No federal AI backstop happened.** Polymarket "OpenAI receives federal backstop before July"
+  resolved **NO at 1%**. The backstop went PRIVATE instead — onto Nvidia's balance sheet
+  (guarantee for OpenAI datacenter debt, scaled back from ~$250B to <$120B ~Aug 21, 2026).
+- **AI credit spreads are TIGHT, not wide** — HPC data-center bonds printed at record-tight
+  T+165; the SEC loosened securitization rules. Stress is in PRIVATE marks and BDC discounts
+  (public BDC index ~17-20% discount to NAV), not public spreads.
