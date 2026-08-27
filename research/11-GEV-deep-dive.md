@@ -1,3 +1,10 @@
+> ⚠️ **PARTIALLY SUPERSEDED — see `contrarian/21-GEV-DATED-EVENTS.md`.**
+> Three claims below are WRONG: (1) Wind HAS had a positive quarter (+$19M, Q4 2024);
+> (2) GEV's near-term prints will NOT necessarily beat — it MISSED adjusted EPS in two of the
+> last three quarters; (3) the Q3 earnings date is **October 28, 2026**, not Oct 21, and the
+> December investor update is NOT on GEV's calendar. The newer file also carries the FERC
+> co-location resolution, the PJM 525 MW datapoint, and the RPO-definition smoking gun.
+
 # GEV — Deep Dive. Call: SHORT-BIASED, MEDIUM conviction (5.5/10)
 Spot $953.09 (Aug 26, 2026 close; pre-mkt Aug 27 $978.18). Mkt cap $253.84B, EV $244.84B.
 
