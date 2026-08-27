@@ -71,3 +71,60 @@ If revenue growth holds at ~12%, the disruption narrative takes a direct, dated,
 ## Method note
 Used the SEC XBRL company-concept API with a compliant User-Agent rather than scraping filings.
 Fast, exact, and free of aggregator error. Concepts used: `EarningsPerShareDiluted`, `Revenues`.
+
+---
+# ADDENDUM — gaps closed via SEC XBRL (share count, SBC, cash flow, buyback)
+
+## ⭐ THE SHARE COUNT IS SHRINKING ~6% A YEAR
+| Quarter ending | Diluted shares | YoY |
+|---|---|---|
+| Feb 28, 2025 | 437.6M | — |
+| May 30, 2025 | 428.9M | — |
+| Aug 29, 2025 | 424.1M | — |
+| **Feb 27, 2026** | **410.8M** | **−6.1%** |
+| **May 29, 2026** | **402.5M** | **−6.2%** |
+
+**Adobe is retiring ~6% of its diluted share count per year, net of all SBC dilution.**
+At a ~15.7x multiple that is roughly **6 points of mechanical EPS growth annually before any
+operating growth at all.** Combine with ~12.7% revenue growth and even flat margins produce
+solidly double-digit EPS growth. **A "Hold" rating with a target at spot is not consistent
+with this arithmetic.**
+
+## Stock-based compensation — real, but comfortably covered
+| Quarter | SBC | as % of revenue |
+|---|---|---|
+| Q1 FY25 (Feb 2025) | $475M | 8.3% |
+| **Q1 FY26 (Feb 2026)** | **$509M** | **8.0%** |
+- Annualizing: SBC ≈ **$2.0B/yr**.
+- Buyback: **$2,478M in Q1 FY26 alone** ($3,250M in Q1 FY25) — annualizing near **$10B/yr**.
+- **=> Buybacks exceed SBC by roughly 5x.** The 6% net share reduction is genuine, not optical.
+  This is the honest answer to the standard "but the non-GAAP hides SBC" objection: even paying
+  for all of it in cash, Adobe still shrinks the count 6%/yr.
+
+## Cash generation is accelerating too
+| Quarter | Operating cash flow | YoY |
+|---|---|---|
+| Q1 FY25 | $2,482M | — |
+| **Q1 FY26** | **$2,958M** | **+19.2%** |
+(Q1 is seasonally Adobe's strongest billings quarter — do not naively annualize.)
+
+## Where the thesis now stands
+Every reported metric I can pull from primary data points the SAME direction:
+- Revenue growth **accelerating** (+12.0% → +12.7%)
+- Operating cash flow **+19.2%**
+- Share count **−6.2%**
+- GAAP EPS **growing** (TTM $17.47)
+- Valuation **~15.7x trailing GAAP**
+- Consensus **Hold, PT ~$270.61 vs $273.47 spot**, short interest 4.88% and falling
+- Stock **−24.7% over 52 weeks**
+
+**The market is pricing structural disruption. The financial statements show acceleration.**
+That gap IS the pitch — and it is falsifiable on a dated catalyst (Q3 FY26, ~mid-Sept 2026).
+
+## Still open
+- Reconcile the aggregator's 10.55x "forward P/E" (implies ~$25.9 EPS) — **do not use until
+  reconciled**; the defensible number is 15.7x trailing GAAP, which I computed myself.
+- Net new Digital Media ARR by quarter — the metric that would actually show seat loss.
+  Not in XBRL; pull from the earnings releases. **This is the single best place for a bear to
+  attack, so own it first.**
+- Confirm the exact Q3 FY26 earnings date from Adobe IR.
