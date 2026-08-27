@@ -73,6 +73,18 @@ All figures in $ thousands.
   This is the strongest item in the bull case and the main squeeze risk for a short.
 - Property and equipment +$1.37B in six months — the newbuild programme keeps consuming capital.
 
+### ⚠️ CORRECTION TO MY OWN READ ABOVE
+I compared advance ticket sales to **December 31, 2025** ($3,651M vs $3,201M = +14.1%) and called
+forward bookings "healthy." **That comparison is SEASONAL, not year-over-year, and it is wrong.**
+The correct YoY comparison at the June balance date is:
+| | Jun 2025 | Jun 2026 | change |
+|---|---|---|---|
+| **NCLH deferred revenue** | **$3,834M** | **$3,651M** | **−4.8%** |
+...and that is on **+8.9% capacity growth**, i.e. roughly **−12% per berth-day.**
+Meanwhile **RCL +5.6%** and **CCL +4.6%** on the same measure.
+**=> This is company-specific share loss, not an industry or consumer problem.**
+It inverts my "strongest item in the bull case" line. Forward bookings are the BEAR case.
+
 ## Positioning warning (from separate data — verify before use)
 NCLH carries roughly **18.46% of float short with ~5.70 days to cover** — the most crowded
 short in the eight-name universe. The fundamental short case above is real, but it is
