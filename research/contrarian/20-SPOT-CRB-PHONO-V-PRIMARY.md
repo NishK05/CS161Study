@@ -115,3 +115,90 @@ way, on a published calendar, with an initial determination due by December 17, 
 - https://www.digitalmusicnews.com/2026/07/01/phonorecords-v-proposed-settlement/
 - https://www.digitalmusicnews.com/2026/08/11/phonorecords-v-objections/
 - https://www.musicbusinessworldwide.com/nmpa-says-spotify-bundling-move-could-cost-music-publishers-3-1bn-through-2032/
+
+---
+# ⭐⭐ THE "IS IT PRICED?" TEST — ANSWERED FROM SPOTIFY'S OWN 20-F
+
+I downloaded Spotify's FY2025 Form 20-F directly from EDGAR
+(CIK 0001639920, accession 0001628280-26-006874, **filed February 10, 2026**,
+doc `ck0001639920-20251231.htm`) and searched the full text myself.
+
+| Term | Occurrences in the FY2025 20-F |
+|---|---|
+| "Phonorecords III" | present |
+| **"Phonorecords IV"** | **2** |
+| **"Phonorecords V"** | **ZERO** |
+| "Copyright Royalty Board" | 8 |
+
+**The Phonorecords V proceeding was initiated December 31, 2025. Spotify filed this 20-F on
+February 10, 2026 — SIX WEEKS LATER — and never names it.**
+
+## The entire forward disclosure is ONE boilerplate sentence, verbatim:
+> *"The Copyright Royalty Board set the rates for the Section 115 blanket compulsory license for
+> calendar years 2023 to 2027 in proceedings known as the 'Phonorecords IV' proceedings. In
+> December 2022, the Copyright Royalty Board issued final regulations for the Phonorecords IV
+> period. **Royalty rates beginning on January 1, 2028 may differ from those in effect today and
+> are subject to change as part of future Copyright Royalty Board proceedings.**"*
+
+No naming of the live docket. No procedural calendar. No quantification. No sensitivity. The risk
+factor language is equally generic: *"if the rates we pay for mechanical licenses that are set by
+the Copyright Royalty Board increase our royalty costs… our business, operating results, and
+financial condition could be materially harmed."*
+
+**If the company itself will not name or size a proceeding that is already underway and whose
+initial determination is statutorily due December 17, 2027, the sell side is almost certainly not
+modelling it either.** That is the definition of an unpriced, dated event.
+
+---
+# ⭐⭐⭐ THE SECOND CLIFF NOBODY IS TALKING ABOUT — buried in the same paragraph
+> *"We have also recently entered into licenses directly with certain publishers for audiovisual
+> and other rights in the United States. **Most of these licenses are in effect until late 2027.**"*
+
+And on performance rights:
+> *"We have obtained public performance licenses from, and pay license fees to, the major PROs in
+> the United States—ASCAP, BMI, GMR, and SESAC—among others… **typically have one to four-year
+> terms**."*
+
+## => SPOTIFY'S ENTIRE US PUBLISHING COST STACK RESETS IN THE SAME 12-MONTH WINDOW
+| Cost layer | Who sets it | Reset date |
+|---|---|---|
+| **Statutory US mechanicals (Section 115)** | **CRB, Phonorecords V** | **Initial determination due Dec 17, 2027; rates effective Jan 1, 2028** |
+| **Direct publisher licences (audiovisual & other US rights)** | bilateral negotiation | **"most… in effect until LATE 2027"** |
+| US public performance (ASCAP/BMI/GMR/SESAC) | PRO negotiation | 1–4 year terms, rolling |
+
+**Three separate cost layers renegotiate into the same window — and Spotify walks into all three
+negotiations having just been publicly accused by the NMPA of engineering a bundle reclassification
+that cost publishers ~$230M in year one and ~$3.1B through 2032.**
+
+Counterparty goodwill is an input to a bilateral renegotiation. Spotify has spent it.
+
+---
+# THE THESIS, ASSEMBLED
+**Consensus:** Spotify's gross margin expands from ~33% toward management's 35–40% 2030 target.
+34.5x forward, **83% buy ratings, ZERO sell ratings**, consensus PT $614.
+
+**The variant view:** Spotify's largest cost line is **structurally incapable of operating
+leverage** (its own filings: royalties are *"the greater of a percentage of relevant revenue and
+a per user amount"*), gross margin has already **plateaued across four quarters**
+(33.1% → 33.0% → 33.4% → 32.9%E), ARPU growth is **100% price-driven with both hikes lapping in
+Q4 2026 and Q1 2027**, and the entire US publishing cost stack **resets in late 2027 / Jan 2028**
+under a proceeding the company does not name in its own annual report.
+
+**The dated catalyst chain — dense, public, and mostly inside 12 months:**
+| Date | Event |
+|---|---|
+| **~Aug 30, 2026** | Joint proposed Phono V schedule incl. hearing dates due (per Order 6) |
+| **Oct 5, 2026** | **Written Direct Statements filed — publishers' 2028–32 rate demand becomes PUBLIC** |
+| Q4 2026 | Sept-2025 international price hike **laps** — ARPU deceleration becomes visible |
+| Dec 4, 2026 | End of discovery |
+| Dec 5–28, 2026 | Settlement conference period |
+| Dec 21, 2026 | Amended Written Direct Statements |
+| Dec 28, 2026 | Joint Settlement Conference Report |
+| Q1 2027 | Feb-2026 US price hike **laps** |
+| 2027 | Hearing (date being set now) |
+| **Dec 17, 2027** | **Initial Determination — statutory deadline** |
+| Jan 1, 2028 | New rates effective; direct publisher licences already expired "late 2027" |
+
+**And the competition timing is almost absurdly good: the memo is due Oct 2 and the Written Direct
+Statements land Oct 5.** You pitch an event three days before it happens, on a statutory calendar,
+and arrive at the Oct 23 finals holding the filing.
