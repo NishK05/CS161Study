@@ -83,24 +83,35 @@ It matches the pattern (Q3 FY25 was Sept 11, 2025). **Verify before relying on i
 - **FY27 ARR guide (Dec 2026) below 8% INCLUDING reinstated price increases** ← decisive
 
 ---
-# THE FULL RANKING
-| Rank | Name | Call | Conviction | Why |
+# THE FULL RANKING — ALL EIGHT COMPLETE
+| Rank | Name | Call | Base-case return | Why |
 |---|---|---|---|---|
-| **1** | **ADBE** | **LONG** | **Med-High** | Quantified variant, catalyst resolves pre-deadline, 24.6% of cap authorized for buyback, forward book contradicts the bear narrative |
-| 2 | **SBUX** | SHORT | Medium (6/10) | Genuinely strong and quantified — but **do not initiate before Oct 29**, and the compare wall is Q2/Q3 FY27 |
-| 3 | **GEV** | SHORT | Medium (5.5/10) | Devastating analysis, **but the natural expression (vs Siemens Energy) is not permissible** and naked short skew is −14% base vs +30% bull |
-| 4 | **CPRT** | TBD | — | Agent still running. Only name with materially RISING short interest against a Buy consensus |
-| 5 | **NKE** | TBD | — | Agent still running |
-| 6 | **SPOT** | PASS | — | Prob-weighted fair value **$551 vs $550 spot** — literally zero expected return |
-| 7 | **NCLH** | PASS | — | Fair value $16.80 vs $17.09; 18.46% short / 5.70 DTC; pair vs CCL not permissible |
-| 8 | **ABNB** | TBD | — | Agent still running. Consensus PT already ~6% BELOW spot — little left to mine |
+| **1** | **ADBE** | **LONG** | **+27%** | Quantified variant that management supplied; catalyst resolves 22 days BEFORE the deadline; forward book independently verified accelerating; 24.6% of cap authorized for buyback |
+| 2 | **ABNB** | LONG (half size) | **+9%** | Real, but **the market already corrected it** — +47% over 52 wks, gapped +17.4% on Aug 7. Little variant left |
+| 3 | **SBUX** | SHORT | −8% | Genuinely quantified — but **do not initiate before Oct 29**, and the compare wall is Q2/Q3 FY27 |
+| 4 | **GEV** | SHORT | −14% | Devastating analysis; **natural expression (vs Siemens Energy) not permissible**; skew −14% base vs +30% bull with shorts covering |
+| 5 | **CPRT** | PASS (bearish) | +2% | $33.35 vs $32.67. **The high-conviction window (~Nov 20 FQ1) falls AFTER the finals** |
+| 6 | **NKE** | PASS | +1% | Prob-weighted $38.4 vs $38.59 spot; 4.25% dividend makes a naked short negative-EV |
+| 7 | **SPOT** | PASS | −1% | Prob-weighted $551 vs $550 — literally zero expected return |
+| 8 | **NCLH** | PASS | −2% | $16.80 vs $17.09; 18.46% short / 5.70 DTC; pair vs CCL not permissible |
 
-## ⚠️ THE STRUCTURAL LESSON FROM THE SHORTS
-**Three of the strongest short cases (GEV, SPOT, NCLH) all resolved to "express it as a PAIR"
-— against Siemens Energy, Netflix, and Carnival respectively. NONE of those legs is in the
-universe.** The competition forces a naked, single-name position, which systematically penalises
-relative-value shorts. **That is a structural argument for pitching a LONG here**, and it is
-worth understanding even though it does not belong in the memo.
+## ⚠️⚠️ THE STRUCTURAL LESSON — this is why the answer is a LONG
+**FOUR of the strongest cases (GEV, SPOT, NCLH, NKE) each independently resolved to
+"express it as a PAIR"** — against **Siemens Energy, Netflix, Carnival, and Deckers**
+respectively. **NOT ONE of those second legs is in the permitted universe.**
+
+The competition forces a **naked, single-name position**, which systematically penalises
+relative-value shorts: every one of them keeps its idiosyncratic squeeze risk while losing the
+hedge that made the risk/reward work. Add the carry problem — NKE pays a **4.25% dividend**, so a
+naked short there is negative-EV on its own scenario weights.
+
+**Conclusion: in THIS format, a high-conviction long with a pre-deadline catalyst dominates.**
+(Understand this; do not put it in the memo — it explains your selection process, not the stock.)
+
+## Also worth knowing: three of the eight are near-perfect coin flips
+SPOT ($551 vs $550), NKE ($38.4 vs $38.59) and CPRT ($33.35 vs $32.67) all price-weight to within
+~2% of spot. **That is a real finding, not a failure to reach a view** — these names are
+efficiently priced and any team pitching them is manufacturing conviction it cannot support.
 
 ## The runner-up, if you want a short
 **SHORT SBUX** is the best short that survives the naked-position constraint:
