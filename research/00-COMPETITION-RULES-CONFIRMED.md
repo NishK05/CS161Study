@@ -1,5 +1,11 @@
 # ⚠️ COMPETITION RULES — CONFIRMED FROM CITADEL'S LIVE PAGE (2026-08-27)
 
+> ✅ **HUMAN-VERIFIED 2026-08-27.** The user opened the live Citadel application form in a
+> browser and screenshotted the "Which stock does your team plan to pitch?" dropdown. It shows
+> exactly: **ABNB, ADBE, CPRT, GEV, NCLH, NKE, SBUX, SPOT** — matching this file. The universe is
+> confirmed; no longer an open item. The form also states **"Your selection is not binding,"** so
+> the interest-form pick can be changed before the Oct 2 submission.
+
 Retrieved directly from
 https://www.citadel.com/careers/investing/citadel-associate-program/apply-for-2026-intercollegiate-stock-pitch-competition/
 (site 403s normal fetchers; retrieved via reader proxy. Ticker list appears TWICE on the
