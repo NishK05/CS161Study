@@ -64,8 +64,14 @@ bears on ABNB / ADBE / CPRT / GEV / NCLH / NKE / SBUX / SPOT.
   William Blair survey (May 19, 2026, n=300 GLP-1 users): **gym membership among users rose to
   35% from 24% in 2024; 72% exercise more frequently (vs 60%); under-45 membership 62% vs 43%.**
   PwC (n=3,089): cardio frequency up for 36% of users, strength training up for 21%.
-  => If GLP-1 users are exercising materially more, that is athletic FOOTWEAR + APPAREL demand.
-  **This is the strongest GLP-1 read-through to NKE and it is under-discussed.**
+  ⚠️⚠️ **FALSIFIED — see `17-NKE-deep-dive.md`.** I called this "the strongest GLP-1 read-through
+  to NKE." It is wrong. **ENDO 2026 (NIH *All of Us* + Fitbit, n=753, presented June 13 2026)
+  measured the opposite: daily steps 5,047 -> 4,487 (−11.1%) and moderate-to-vigorous activity
+  28 -> 22 min/day (−21.4%), with "no evidence that losing weight with these medications led
+  people to become more physically active."**
+  The survey asks "did you join a gym?"; the Fitbit measures "did you move?" **Joining a gym is
+  not using it.** Objective wearable data beats self-reported intent. Because athletic footwear
+  replacement is MILEAGE-driven, the mechanism points NEGATIVE for Nike, not positive.
 
 ---
 ## FOR NCLH — cruise
