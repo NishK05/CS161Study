@@ -128,3 +128,84 @@ That gap IS the pitch — and it is falsifiable on a dated catalyst (Q3 FY26, ~m
   Not in XBRL; pull from the earnings releases. **This is the single best place for a bear to
   attack, so own it first.**
 - Confirm the exact Q3 FY26 earnings date from Adobe IR.
+
+---
+# ADDENDUM 2 — the Q2 FY26 earnings release itself (SEC 8-K Ex-99.1, June 11, 2026)
+Source: https://www.sec.gov/Archives/edgar/data/796343/000079634326000109/adbeex991q226.htm
+
+## ✅ THE FORWARD MULTIPLE IS RECONCILED — AND IT IS REAL
+| | Q2 FY26 actual |
+|---|---|
+| Revenue | **$6.62B, +13% YoY (+11% cc)** — a record |
+| **Diluted EPS GAAP** | **$4.25** |
+| **Diluted EPS NON-GAAP** | **$5.96** |
+| GAAP operating income | $2.24B |
+| Non-GAAP operating income | $2.95B |
+| GAAP net income | $1.71B |
+| Non-GAAP net income | $2.40B |
+| Operating cash flow | $2.17B |
+| **Total ARR exiting quarter** | **$27.10B** (incl. ~$480M from Semrush) |
+| RPO | **$22.27B**, cRPO 67% |
+| **Shares repurchased in the quarter** | **~8.5 million** |
+- GAAP EPS includes a **$0.17/share non-cash goodwill impairment** (Publishing & Advertising unit).
+- Subscription revenue $6.39B, **+14%** (+12% cc).
+- **Business Professionals & Consumers $1.85B, +16%**; Creative & Marketing Professionals $4.54B, +13%.
+
+## ⭐ MANAGEMENT RAISED FY26 GUIDANCE — headline of the release:
+> *"Adobe Raises FY26 Total Revenue and Non-GAAP EPS Targets"*
+> *"**AI-first ARR triples year over year and exceeds $500 million**"*
+
+### FY2026 targets (raised)
+| | |
+|---|---|
+| Total revenue | **$26.50B – $26.60B** (vs FY25 $23.769B = **+11.5% to +11.9%**) |
+| **GAAP EPS** | **$17.90 – $18.00** |
+| **Non-GAAP EPS** | **$24.35 – $24.45** |
+| Non-GAAP operating margin | **~45.0%** |
+| Diluted share count | ~399M |
+| Total ARR growth | 10.2% YoY |
+
+### Q3 FY2026 targets
+Revenue **$6.67B – $6.72B** · GAAP EPS **$4.40 – $4.45** · **Non-GAAP EPS $6.05 – $6.10** ·
+non-GAAP op margin ~44.0% · diluted shares ~395M
+
+## ⇒ THE VALUATION, ON MANAGEMENT'S OWN CURRENT-YEAR GUIDANCE, AT $273.47
+| Basis | EPS | Multiple |
+|---|---|---|
+| **FY26 non-GAAP guidance midpoint** | **$24.40** | **11.2x** |
+| **FY26 GAAP guidance midpoint** | **$17.95** | **15.2x** |
+| TTM GAAP actual | $17.47 | 15.7x |
+The aggregator's "10.55x forward" is FY27 consensus non-GAAP (~$25.9). **It reconciles.**
+**Adobe trades at ~11x THIS YEAR's guided non-GAAP EPS and ~15x guided GAAP EPS, while
+raising guidance and growing revenue ~12%.** Use the GAAP number in the memo — it is
+unimpeachable — and show the non-GAAP as a cross-check.
+
+## ⚠️⚠️ TWO THINGS THAT MUST BE OWNED IN THE MEMO — do not hide these
+### 1. THE CFO DEPARTED
+> *"Dan Durn, executive vice president and CFO of Adobe, **is departing the company on
+> June 15, 2026** to pursue a new professional opportunity. **Steve Day**… will serve as
+> **interim** Chief Financial Officer."*
+A CFO exit announced *in the earnings release itself*, at a company already under an
+AI-disruption narrative, is exactly what a bear points to and is likely part of why the stock
+de-rated. **Raise it first and address it.** Mitigants: Day has 20 years at Adobe; guidance was
+RAISED in the same release, not withdrawn. Watch for a permanent CFO appointment as a catalyst.
+
+### 2. PART OF THE "ACCELERATION" IS INORGANIC — Semrush
+Adobe acquired **Semrush**. Q2 subscription revenue *"includ[ed] approximately $40 million from
+Semrush"* on a $6.618B quarter ≈ **0.6pp of the 13% growth**. Total ARR includes ~$480M of Semrush.
+**So report organic Q2 growth as ~12.4%, not 13%.** Still an acceleration versus FY25's +10.5%,
+but state it honestly — an inflated organic number is the fastest way to lose credibility in Q&A.
+**Confirm whether Q1 FY26 (+12.0%) contained any Semrush contribution before claiming a clean
+two-quarter organic acceleration.**
+
+## Why this is now the strongest pitch in the universe
+The bear case is *"generative AI destroys Adobe's franchise."* The company's own reported and
+guided numbers say: revenue accelerating, guidance RAISED, **AI-first ARR TRIPLING to >$500M**
+(i.e. Adobe is *monetizing* AI, not being eaten by it), ~6%/yr share count reduction, ~45%
+non-GAAP operating margins, $22.27B RPO — at **~15x GAAP / ~11x non-GAAP** with a **Hold**
+consensus whose target sits **below** the share price.
+
+**Catalyst: Q3 FY26 earnings, ~mid-September 2026** (Q2 was reported June 11; Q3 quarter ended
+~Aug 28). Guidance is already public: revenue $6.67–6.72B and non-GAAP EPS $6.05–6.10.
+**That gives the memo a genuine, dated, falsifiable PREDICTIVE component — exactly what the
+official rules ask for.** Confirm the date with Adobe IR.
