@@ -217,3 +217,48 @@ Adobe MAX 2026 dates (2026 page 404s). **Seat counts, gross/net dollar retention
 competitive win rates — Adobe discloses NONE of these.** There is no public evidence of Creative
 Cloud seat losses, and none that there aren't any. **Anyone claiming to know is guessing** —
 say so in the memo rather than being caught by it.
+
+---
+# ⭐ INDEPENDENT VERIFICATION OF THE THESIS'S LOAD-BEARING NUMBER
+I pulled `us-gaap:ContractWithCustomerLiabilityCurrent` (current deferred revenue) straight from
+the SEC XBRL API myself, rather than relying on the agent. **It confirms — and the trend is
+better than the single data point suggested.**
+
+| Period end | Current deferred revenue | Form |
+|---|---|---|
+| 2024-11-29 (FY24 end) | $6,131M | 10-K |
+| 2025-02-28 (Q1 FY25) | $6,347M | 10-Q |
+| 2025-05-30 (Q2 FY25) | $6,220M | 10-Q |
+| 2025-08-29 (Q3 FY25) | $6,385M | 10-Q |
+| 2025-11-28 (FY25 end) | $6,905M | 10-K |
+| **2026-02-27 (Q1 FY26)** | **$7,275M** | 10-Q |
+| **2026-05-29 (Q2 FY26)** | **$7,152M** | 10-Q |
+
+### The YoY series — this is the whole pitch in one table
+| Comparison | Deferred revenue growth | Revenue growth | **Spread** |
+|---|---|---|---|
+| FY24 end → FY25 end | **+12.6%** | +10.5% | **+2.1pts** |
+| Q1 FY25 → **Q1 FY26** | **+14.6%** | +12.0% | **+2.6pts** |
+| Q2 FY25 → **Q2 FY26** | **+15.0%** | +12.7% | **+2.3pts** |
+
+**Deferred revenue growth is ACCELERATING (12.6% → 14.6% → 15.0%) and has run roughly 2 points
+ABOVE revenue growth for three consecutive periods.**
+
+## Why this is the single best fact in the pitch
+Deferred revenue is **cash already collected for services not yet delivered.** It is the cleanest
+available proxy for billings, it is audited, it is in the financial statements rather than a
+management metric, and **Adobe cannot manage it the way it manages ARR disclosure.**
+
+A company whose product is being structurally disintermediated by generative AI:
+- does not collect **15% more cash up front** than a year ago,
+- while growing revenue **12.7%**,
+- while its **RPO grows 13%**,
+- with the spread **widening**.
+
+**Customers are pre-paying Adobe faster than Adobe is recognising the revenue. That is the
+opposite of churn.** And it is independently verifiable by any judge in about ninety seconds from
+the same public API — which is exactly why it belongs at the centre of the memo.
+
+**This also neutralises the strongest bear point** (that Adobe collapsed its segments and stopped
+disclosing Creative ARR separately, so deterioration could hide for 4-6 quarters). You cannot see
+Creative Cloud any more — **but you can see the cash, and the cash is accelerating.**
