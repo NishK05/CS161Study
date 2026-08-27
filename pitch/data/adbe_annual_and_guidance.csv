@@ -1,0 +1,8 @@
+# Adobe annual actuals (SEC XBRL) and FY2026 guidance (8-K Ex-99.1 filed 2026-06-11)
+# Retrieved 2026-08-27. USD millions except EPS.
+fiscal_year,revenue,eps_diluted_gaap,eps_diluted_nongaap,nongaap_op_margin_pct,sbc,fcf,source
+FY2023,19409,11.82,,,,,SEC XBRL 10-K
+FY2024,21505,12.36,,,,,SEC XBRL 10-K
+FY2025,23769,16.70,20.94,46.2,1942,9850,SEC XBRL 10-K + Q4FY25 8-K
+FY2026E_guide_low,26500,17.90,24.35,45.0,,,8-K Ex-99.1 2026-06-11
+FY2026E_guide_high,26600,18.00,24.45,45.0,,,8-K Ex-99.1 2026-06-11

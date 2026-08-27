@@ -1,0 +1,13 @@
+# Adobe Q3 FY2026 guidance, from 8-K Ex-99.1 filed 2026-06-11. THIS IS THE PREDICTIVE TEST.
+# Q3 FY26 quarter ended ~2026-08-28. Reports ~2026-09-10 (VERIFY with Adobe IR).
+# Q3 FY25 actual revenue was 5988 -> guidance implies +11.4% to +12.2% reported.
+metric,low,high,unit
+total_revenue,6670,6720,USD millions
+bus_prof_consumers_subscription_rev,1870,1890,USD millions
+creative_marketing_prof_subscription_rev,4610,4640,USD millions
+eps_diluted_gaap,4.40,4.45,USD per share
+eps_diluted_nongaap,6.05,6.10,USD per share
+nongaap_operating_margin,44.0,44.0,percent
+gaap_tax_rate,23.0,23.0,percent
+nongaap_tax_rate,18.0,18.0,percent
+diluted_share_count,395,395,millions

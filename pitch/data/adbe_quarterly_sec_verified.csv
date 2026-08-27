@@ -1,0 +1,10 @@
+# Adobe (ADBE) quarterly data pulled directly from SEC XBRL company-concept API, CIK 0000796343
+# Retrieved 2026-08-27. All figures USD millions except EPS and share counts (millions of shares).
+# Source: data.sec.gov/api/xbrl/companyconcept/CIK0000796343/us-gaap/<concept>.json
+# Fiscal year ends late Nov/early Dec. Q1 ends ~Feb, Q2 ~May, Q3 ~Aug, Q4 ~Nov/Dec.
+period_end,fiscal_qtr,revenue,gross_profit,operating_income,net_income,eps_diluted_gaap,diluted_shares
+2025-02-28,Q1FY25,5714,5092,2163,1811,4.14,437.6
+2025-05-30,Q2FY25,5873,5235,2109,1691,3.94,428.9
+2025-08-29,Q3FY25,5988,5346,2173,1772,4.18,424.1
+2026-02-27,Q1FY26,6398,5734,2418,1889,4.60,410.8
+2026-05-29,Q2FY26,6618,5903,2238,1712,4.25,402.5
