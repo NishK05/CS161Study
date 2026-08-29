@@ -33,6 +33,12 @@ and logic of model assumptions."*
 
 ## 🥇 THE RECOMMENDATION: **LONG ADBE** → see `pitch/01-RANKING-AND-RECOMMENDATION.md`
 
+## 💵 Monetization: the $1k/month plan → see `plan/00-AKSHIT-1K-PLAN.md`
+The research *process* in this repo (primary-source checks, red-teaming, corrections log) is a
+sellable asset. `plan/` holds the researched three-channel plan (Seeking Alpha + coaching +
+paid Substack) with sourced economics in `plan/01-channel-economics-appendix.md`; the
+why-not-trading evidence lives in the `15BTC` repo.
+
 ## Index
 ### Start here
 - `research/00-COMPETITION-RULES-CONFIRMED.md` — universe + rules, from Citadel's live page
